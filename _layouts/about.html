@@ -3,11 +3,17 @@ layout: page
 ---
 
 <article>
-	  
-  <p><strong>{{ site.conference.name }} will take place in {{ site.conference.location }} from {{ site.conference.dates[0] | date: "%A %B, %-d %Y" }} to  {{ site.conference.dates.last | date: "%A %B, %-d %Y" }}.</strong></p>
-  
+
+  <p><strong>The {{ site.conference.name }} will be a virtual event {{ site.conference.location }} from {{ site.conference.dates[0] | date: "%A %B, %-d %Y" }} to  {{ site.conference.dates.last | date: "%A %B, %-d %Y" }}.</strong></p>
+
+  <p>For the event, we will use Whova and Zoom. If you have already
+  registered, we will contact you close to the beginning of the
+  School with instructions about how to connect. The School will
+  include round table sessions with the speakers where participants can
+  interact with them.</p>
+
   {{ content }}
-    
+
   {% assign sponsorlen = {{ site.conference.sponsors | size }} %}
   {% if sponsorlen > 0 %}
   <p><strong>Sponsors</strong></p>
@@ -21,13 +27,12 @@ layout: page
 
   {% if site.conference.organizers %}
   <p><strong>Organizers</strong></p>
-
+  <ul>
   {% assign lastone = site.conference.organizers | last %}
   {% for person in site.conference.organizers %}
-  {% include listperson.html %}
-  {% endfor %}</p>
+  <li>{% include listperson.html %}</li>
+  {% endfor %}</ul><!--/p-->
   {% endif %}
-
   {% if site.conference.local %}
   {% assign lastone = site.conference.local | last %}
   <p>Local Chair:
@@ -93,11 +98,9 @@ layout: page
 
       </div><!-- #content -->
     </div><!-- #primary -->
-    
-    
-    
+
+
+
 
   </div><!-- .inner-wrap -->
-</div><!-- #main -->  
-
-
+</div><!-- #main -->
