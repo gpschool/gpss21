@@ -27,5 +27,5 @@ Follow the link below to register.
 
 Registrants to the summer school can attend the workshop free of charge.
 
-If you have registered and need a visa to come to UK, please apply for a Standard visa. More details regarding the visa application can be found
-[here](https://www.gov.uk/standard-visitor-visa). If you need an invitation letter for your visa application, please [contact us](mailto:mauricio.alvarez@sheffield.ac.uk).
+<!--If you have registered and need a visa to come to UK, please apply for a Standard visa. More details regarding the visa application can be found
+[here](https://www.gov.uk/standard-visitor-visa). If you need an invitation letter for your visa application, please [contact us](mailto:mauricio.alvarez@sheffield.ac.uk).-->
