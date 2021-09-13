@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg width="600" height="440" viewBox="0 0 15000 11000" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <rect style="stroke:none; fill:rgb(128,128,128);" x="3000" y="0"    width="12000" height="9000" />
+  <rect style="stroke:none; fill:rgb(255,255,255);" x="4000" y="1000" width="10000" height="7000" />
+  <rect style="stroke:none; fill:rgb(128,128,128);" x="0"    y="5000" width="7000"  height="6000" />
+  <rect style="stroke:none; fill:rgb(255,255,255);" x="1000" y="6000" width="5000"  height="4000" />
+  <polygon style="stroke:none; fill:rgb(128,128,128);" points="11000,3200 8238,3888 9203,5407 11000,3200"/>
+  <polygon style="stroke:none; fill:rgb(128,128,128);" points="2231,8177 8908,3936 9444,4780 2768,9022 2231,8177"/>
+</svg>
