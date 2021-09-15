@@ -52,7 +52,7 @@ You will need to also download the banana.csv dataset for one of the examples in
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gpschool/labs/2021?filepath=2021%2Flab_2.ipynb)&nbsp;&nbsp;&nbsp;
 [![Mirror 1](https://img.shields.io/badge/mirror%201-binder-blueviolet)](https://mybinder.org/v2/gh/wilocw/labs/2021?filepath=2021%2Flab_2.ipynb)&nbsp;&nbsp;&nbsp;
 [![Mirror 2](https://img.shields.io/badge/mirror%202-binder-blueviolet)](https://mybinder.org/v2/gh/SheffieldMLNet/labs/2021?filepath=2021%2Flab_2.ipynb)&nbsp;&nbsp;&nbsp;
-<!--[![Answers](https://img.shields.io/badge/answers-nbviewer-green)](https://nbviewer.jupyter.org/github/gpschool/labs/blob/2021/2021/.answers/lab_2.ipynb)-->
+[![Answers](https://img.shields.io/badge/answers-nbviewer-green)](https://nbviewer.jupyter.org/github/gpschool/labs/blob/2021/2021/.answers/lab_2.ipynb)
 
 
 Resources: [olympic_marathon_men](https://github.com/gpschool/labs/raw/2021/.resources/olympic_marathon_men) | [banana.csv](https://github.com/gpschool/labs/raw/2021/.resources/banana.csv) 
