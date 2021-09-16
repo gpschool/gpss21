@@ -12,21 +12,22 @@ Details of how to set up your Python environment and on the installation of the 
 
 To view and run the full list of labs, click here: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gpschool/labs/2021?filepath=2021%2F). Alternatively, you can use the corresponding links for each lab.
 
+<!--
 #### Mirror Sites
 If you are unable to connect to Binder due to use capacity, try one of the available mirror servers or
 follow instructions for [running labs on your local machine](../gpss21/getting_started#running-labs-on-your-local-machine).-->
-
+<!--
 [![Mirror 1](https://img.shields.io/badge/mirror%201-binder-blueviolet)](https://mybinder.org/v2/gh/wilocw/labs/2021?filepath=2021%2F)&nbsp;&nbsp;&nbsp;
 [![Mirror 2](https://img.shields.io/badge/mirror%202-binder-blueviolet)](https://mybinder.org/v2/gh/SheffieldMLNet/labs/2021?filepath=2021%2F)
-
+-->
 
 ### Lab 1: Gaussian Process Regression
 This lab is designed to introduce Gaussian processes in a practical way, illustrating the concepts introduced in the first two lectures. The key aspects of Gaussian process regression are covered: the covariance function (aka kernels); sampling a Gaussian process; and the regression model. The notebook will introduce the open source Python library GPy which handles the kernels, regression and optimisation of hyperparameter, allowing us to easily access the results we want.
 
 [![Download](https://img.shields.io/badge/download-lab%201-green)](https://github.com/gpschool/labs/raw/2021/2021/lab_1.ipynb) &nbsp;&nbsp;&nbsp;
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gpschool/labs/2021?filepath=2021%2Flab_1.ipynb) &nbsp;&nbsp;&nbsp;
-[![Mirror 1](https://img.shields.io/badge/mirror%201-binder-blueviolet)](https://mybinder.org/v2/gh/wilocw/labs/2021?filepath=2021%2Flab_1.ipynb)&nbsp;&nbsp;&nbsp;
-[![Mirror 2](https://img.shields.io/badge/mirror%202-binder-blueviolet)](https://mybinder.org/v2/gh/SheffieldMLNet/labs/2021?filepath=2021%2Flab_1.ipynb)&nbsp;&nbsp;&nbsp;
+<!--[![Mirror 1](https://img.shields.io/badge/mirror%201-binder-blueviolet)](https://mybinder.org/v2/gh/wilocw/labs/2021?filepath=2021%2Flab_1.ipynb)&nbsp;&nbsp;&nbsp;
+[![Mirror 2](https://img.shields.io/badge/mirror%202-binder-blueviolet)](https://mybinder.org/v2/gh/SheffieldMLNet/labs/2021?filepath=2021%2Flab_1.ipynb)&nbsp;&nbsp;&nbsp;-->
 [![Answers](https://img.shields.io/badge/answers-nbviewer-green)](https://nbviewer.jupyter.org/github/gpschool/labs/blob/2021/2021/.answers/lab_1.ipynb)
 
 Resources: [mauna_loa](https://github.com/gpschool/labs/raw/2021/.resources/mauna_loa)
@@ -36,8 +37,8 @@ This lab is an extension on the work introduced in Lab 1 of the summer school. I
 
 [![Download](https://img.shields.io/badge/download-lab%201%20extra-green)](https://github.com/gpschool/labs/raw/2021/2021/lab_1_extra.ipynb)&nbsp;&nbsp;&nbsp;
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gpschool/labs/2021?filepath=2021%2Flab_1_extra.ipynb)&nbsp;&nbsp;&nbsp;
-[![Mirror 1](https://img.shields.io/badge/mirror%201-binder-blueviolet)](https://mybinder.org/v2/gh/wilocw/labs/2021?filepath=2021%2Flab_1_extra.ipynb)&nbsp;&nbsp;&nbsp;
-[![Mirror 2](https://img.shields.io/badge/mirror%202-binder-blueviolet)](https://mybinder.org/v2/gh/SheffieldMLNet/labs/2021?filepath=2021%2Flab_1_extra.ipynb)&nbsp;&nbsp;&nbsp;
+<!--[![Mirror 1](https://img.shields.io/badge/mirror%201-binder-blueviolet)](https://mybinder.org/v2/gh/wilocw/labs/2021?filepath=2021%2Flab_1_extra.ipynb)&nbsp;&nbsp;&nbsp;
+[![Mirror 2](https://img.shields.io/badge/mirror%202-binder-blueviolet)](https://mybinder.org/v2/gh/SheffieldMLNet/labs/2021?filepath=2021%2Flab_1_extra.ipynb)&nbsp;&nbsp;&nbsp;-->
 [![Answers](https://img.shields.io/badge/answers-nbviewer-green)](https://nbviewer.jupyter.org/github/gpschool/labs/blob/2021/2021/.answers/lab_1_extra.ipynb)
 
 
@@ -50,8 +51,8 @@ You will need to also download the banana.csv dataset for one of the examples in
 
 [![Download](https://img.shields.io/badge/download-lab%202-green)](https://github.com/gpschool/labs/raw/2021/2021/lab_2.ipynb)&nbsp;&nbsp;&nbsp;
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gpschool/labs/2021?filepath=2021%2Flab_2.ipynb)&nbsp;&nbsp;&nbsp;
-[![Mirror 1](https://img.shields.io/badge/mirror%201-binder-blueviolet)](https://mybinder.org/v2/gh/wilocw/labs/2021?filepath=2021%2Flab_2.ipynb)&nbsp;&nbsp;&nbsp;
-[![Mirror 2](https://img.shields.io/badge/mirror%202-binder-blueviolet)](https://mybinder.org/v2/gh/SheffieldMLNet/labs/2021?filepath=2021%2Flab_2.ipynb)&nbsp;&nbsp;&nbsp;
+<!--[![Mirror 1](https://img.shields.io/badge/mirror%201-binder-blueviolet)](https://mybinder.org/v2/gh/wilocw/labs/2021?filepath=2021%2Flab_2.ipynb)&nbsp;&nbsp;&nbsp;
+[![Mirror 2](https://img.shields.io/badge/mirror%202-binder-blueviolet)](https://mybinder.org/v2/gh/SheffieldMLNet/labs/2021?filepath=2021%2Flab_2.ipynb)&nbsp;&nbsp;&nbsp;-->
 [![Answers](https://img.shields.io/badge/answers-nbviewer-green)](https://nbviewer.jupyter.org/github/gpschool/labs/blob/2021/2021/.answers/lab_2.ipynb)
 
 
@@ -65,9 +66,9 @@ This lab introduces the basic concepts of Bayesian optimisation with GPyOpt. The
 
 [![Download](https://img.shields.io/badge/download-lab%203-green)](https://github.com/gpschool/labs/raw/2021/2021/lab_3.ipynb)&nbsp;&nbsp;&nbsp;
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gpschool/labs/2021?filepath=2021%2Flab_3.ipynb)&nbsp;&nbsp;&nbsp;
-[![Mirror 1](https://img.shields.io/badge/mirror%201-binder-blueviolet)](https://mybinder.org/v2/gh/wilocw/labs/2021?filepath=2021%2Flab_3.ipynb)&nbsp;&nbsp;&nbsp;
-[![Mirror 2](https://img.shields.io/badge/mirror%202-binder-blueviolet)](https://mybinder.org/v2/gh/SheffieldMLNet/labs/2021?filepath=2021%2Flab_3.ipynb)&nbsp;&nbsp;&nbsp;
-<!--[![Answers](https://img.shields.io/badge/answers-nbviewer-green)](https://nbviewer.jupyter.org/github/gpschool/labs/blob/2021/2021/.answers/lab_3.ipynb)-->
+<!--[![Mirror 1](https://img.shields.io/badge/mirror%201-binder-blueviolet)](https://mybinder.org/v2/gh/wilocw/labs/2021?filepath=2021%2Flab_3.ipynb)&nbsp;&nbsp;&nbsp;
+[![Mirror 2](https://img.shields.io/badge/mirror%202-binder-blueviolet)](https://mybinder.org/v2/gh/SheffieldMLNet/labs/2021?filepath=2021%2Flab_3.ipynb)&nbsp;&nbsp;&nbsp;-->
+[![Answers](https://img.shields.io/badge/answers-nbviewer-green)](https://nbviewer.jupyter.org/github/gpschool/labs/blob/2021/2021/.answers/lab_3.ipynb)
 
 #### Lab 3 Extra: Deep Gaussian Processes
 
@@ -76,8 +77,8 @@ This lab introduces regression with hierarchical "deep" Gaussian processes. You 
 
 [![Download](https://img.shields.io/badge/download-lab%202%20extra-green)](https://github.com/gpschool/labs/raw/2021/2021/lab_3_extra.ipynb)&nbsp;&nbsp;&nbsp;
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gpschool/labs/2021?filepath=2021%2Flab_3_extra.ipynb)&nbsp;&nbsp;&nbsp;
-[![Mirror 1](https://img.shields.io/badge/mirror%201-binder-blueviolet)](https://mybinder.org/v2/gh/wilocw/labs/2021?filepath=2021%2Flab_3_extra.ipynb)&nbsp;&nbsp;&nbsp;
-[![Mirror 2](https://img.shields.io/badge/mirror%202-binder-blueviolet)](https://mybinder.org/v2/gh/SheffieldMLNet/labs/2021?filepath=2021%2Flab_3_extra.ipynb)&nbsp;&nbsp;&nbsp;
+<!--[![Mirror 1](https://img.shields.io/badge/mirror%201-binder-blueviolet)](https://mybinder.org/v2/gh/wilocw/labs/2021?filepath=2021%2Flab_3_extra.ipynb)&nbsp;&nbsp;&nbsp;
+[![Mirror 2](https://img.shields.io/badge/mirror%202-binder-blueviolet)](https://mybinder.org/v2/gh/SheffieldMLNet/labs/2021?filepath=2021%2Flab_3_extra.ipynb)&nbsp;&nbsp;&nbsp;-->
 [![Answers](https://img.shields.io/badge/answers-nbviewer-green)](https://nbviewer.jupyter.org/github/wilocw/labs/blob/2021/2021/.answers/lab_3_extra.ipynb)
 
 
