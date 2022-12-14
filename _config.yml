@@ -9,6 +9,12 @@ logo: "gpss_logo.svg"
 twitter_username: sheffieldmlnet
 github_username:  gpschool
 
+plugins:
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-remote-theme
+remote_theme: gpschool/jekyll-theme
+style: gpss
 
 youtube:
   height: 315
