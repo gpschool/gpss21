@@ -20,7 +20,7 @@ youtube:
   height: 315
   width: 560
 
-github:
+ghub:
   edit: true
   repository: gpss21
 
@@ -44,7 +44,10 @@ conference:
   draft: false # set to True if the programme is draft only.
   hide_tentative: true
   hosts:
-
+  short_name: GPSS
+  full_name:  Gaussian Process and Uncertainty Quantification Summer School
+  venue: Virtual
+  location: Virtual Conference
   name: Gaussian Process Summer School
   year: 2021
   month: September
@@ -53,7 +56,9 @@ conference:
   - 2021-09-14
   - 2021-09-15
   - 2021-09-16
-  organizers:
+  chairs:
+  - type: Organizers
+    people:
     - {given: Mauricio, family: Alvarez, url: "https://maalvarezl.github.io/", institute: University of Sheffield}
     - {given: Javier, family: Gonzalez, url: "https://javiergonzalezh.github.io/", institute: Microsoft Research Cambridge}
     - {given: Wil, family: Ward, url: "https://wilocw.github.io/", institute: University of Sheffield}
